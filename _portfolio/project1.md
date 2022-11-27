@@ -20,7 +20,7 @@ caption:
   - Durock Linear 67g on alpha keys - Light lubrication
   - Drop Halo True 60g on select mod keys - Lubricated springs
   - Arctos 65g on remaining mod keys - Medium lubrication
-  - Kailh Box Jade 50g on `CAPS` lock and `ESC
+  - Kailh Box Jade 50g on `CAPS` lock and `ESC`
 - Cherry Screw-In Stabilizers
 - Krytox 205g0 Lubricant
 - Keycaps: Black-on-White Virtual War; XDA profile; PBT Dye Sublimination
